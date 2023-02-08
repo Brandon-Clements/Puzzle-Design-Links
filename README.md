@@ -1,5 +1,8 @@
 # Puzzle-Design-Links
 
+> A list of links to things related to Video Game Puzzle Design.
+
+
 ## Video
 
 - [Puzzle Game Magic Secrets](https://www.youtube.com/watch?v=B36_OL1ZXVM) - GDC Talk by Brett Taylor of My Dog Zorro's 
