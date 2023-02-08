@@ -11,3 +11,11 @@
 ## Text
 
 - [Puzzle Level Design Strategies](https://cwpat.me/misc/puzzle-level-idea-strategies/) - by Patrick Traynor
+
+---
+
+## Procedural Generation
+
+> For system based puzzle games
+
+- [Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU) - Tracery developer Kate Compton explains the many surprisingly simple algorithms of procedural content generation
