@@ -19,3 +19,4 @@
 > For system based puzzle games
 
 - [Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU) - Tracery developer Kate Compton explains the many surprisingly simple algorithms of procedural content generation
+- [End-to-End Procedural Generation in Caves of Qud](https://www.youtube.com/watch?v=jV-DZqdKlnE) - Freehold Games' Brian Bucklew & Jason Grinblat do an end-to-end walk-through of the systems used to generate villages in Caves of Qud
