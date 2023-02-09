@@ -5,7 +5,7 @@
 
 ## Video
 
-- [Puzzle Game Magic Secrets](https://www.youtube.com/watch?v=B36_OL1ZXVM) - GDC Talk by Brett Taylor of My Dog Zorro's 
+- [**Puzzle Game Magic Secrets**](https://www.youtube.com/watch?v=B36_OL1ZXVM) - GDC Talk by Brett Taylor of My Dog Zorro's 
 - [Open-Ended Puzzle Design at Zachtronics](https://www.youtube.com/watch?v=U4uH1ynH3Rs) - podcaster Drew Messinger-Michaels talks to Zachtronics founder and creative director Zach Barth about the studio's puzzle design process
 - [30 Puzzle Design Lessons](https://www.youtube.com/watch?v=oCHciE9CYfA) [Part 2](https://www.youtube.com/watch?v=iUi2vMZajco) [Part 3](https://www.youtube.com/watch?v=zsbfkMuaUxs)- GDC Talk by Elyot Grant of Lunarch Studios
 
